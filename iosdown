@@ -19,11 +19,11 @@
                     <key>bundle-identifier</key>
                     <string>lyh.dcloud.H5E98E559</string>
                     <key>bundle-version</key>
-                    <string>1.3</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>下载</string>
+                    <string>down</string>
                     <key>title</key>
                     <string></string>
                 </dict>
